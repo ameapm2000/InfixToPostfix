@@ -1,0 +1,6 @@
+Input expression --- Postfix expression --– evaluation
+1+1------11+------2
+Input expression --- Postfix expression --– evaluation
+2+2------22+------4
+Input expression --- Postfix expression --– evaluation
+3+3------33+------6
